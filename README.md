@@ -12,7 +12,7 @@ Crea el siguiente diseno en la imagen:
 7. En la parte de abajo poner una DispociionHorizontal, ajustar el ancho al tamano del contender y centrar los botones.
 8. Colocar dos botones, y tambien cambiar el nombre: btnJugar, btnSalir, no confundir con el texto(tambien se debe ver como en la imagen).
 
-![diseno](./penal.png)
+![diseno](./disenoPenal.png)
 
 ## Bloques
 
