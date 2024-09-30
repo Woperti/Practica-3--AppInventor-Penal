@@ -61,5 +61,9 @@ Crear un procedimiento y asignarselo al Reloj1.Temporizador, ejecutar: procedimi
 
 Parte 5. Probar
 
-Salida del programa.
-![Salida](./salidaPenalti.gif)
+Salida del programa 1era version
+
+![Salida](./salidaPenalti1.gif)
+
+
+![Salida](./salidaPenalti2.gif)
