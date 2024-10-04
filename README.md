@@ -61,6 +61,6 @@ Crear un procedimiento y asignarselo al Reloj1.Temporizador, ejecutar: procedimi
 
 Parte 5. Probar
 
-Salida del programa 1era version
+Salida del programa
 
 ![Salida](./app-penal.gif)
