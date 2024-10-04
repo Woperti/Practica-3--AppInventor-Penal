@@ -63,7 +63,4 @@ Parte 5. Probar
 
 Salida del programa 1era version
 
-![Salida](./salidaPenalti1.gif)
-
-
-![Salida](./salidaPenalti2.gif)
+![Salida](./app-penal.gif)
