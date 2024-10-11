@@ -1,6 +1,8 @@
 ## Realiza lo siguiente
 
 ## Diseno
+Descarga las imagenes: balon.png, campo.png, portero.png y porteria.png
+
 Crea el siguiente diseno en la imagen:
 
 1. Utiliza el componente lienzo ubicado en el menu dibujo y animacion. Y coloca el campo.png
