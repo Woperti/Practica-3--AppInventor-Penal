@@ -14,7 +14,7 @@ Crea el siguiente diseno en la imagen:
 7. En la parte de abajo poner una DispociionHorizontal, ajustar el ancho al tamano del contender y centrar los botones.
 8. Colocar dos botones, y tambien cambiar el nombre: btnJugar, btnSalir, no confundir con el texto(tambien se debe ver como en la imagen).
 
-![diseno](./disenoPenal.png)
+![diseno](./disenoAppPenalti.png)
 
 ## Bloques
 Parte 1.
@@ -39,16 +39,14 @@ Configurar los eventos clic, tenemos dos botones:
 btnJugar -> asignar los procedimientos creados: reiniciarMarcadores y regresarElJuego
 btnSalir -> asignarle un control: salir del juego 
 
-![Bloque1](./bloqueParte1.png)
+![Bloque1](./bloqueParte1Update.png)
 
 Parte 2. Lanzado y TocarBorde
 
-![Bloque2](./bloqueParte2.png)
+![Bloque2](./bloqueParte2Update.png)
 
 Parte 3. Colisiones(2 o mas sprites se tocan)
 Eg. El portero toca la porteria, el balon, etc.
-
-![Bloque3](./bloqueParte3.png)
 
 Parte 4. Reloj y Movimiento
 
@@ -59,7 +57,7 @@ Definir una variable global. (Definira la cantidad de pixeles que el portero va 
 
 Crear un procedimiento y asignarselo al Reloj1.Temporizador, ejecutar: procedimiento
 
-![Bloque4](./bloqueParte4.png)
+![Bloque3 y 4](./bloqueParte3y4.png)
 
 Parte 5. Probar
 
